@@ -1,0 +1,43 @@
+﻿@model List<UserGroup.ViewModel.UserVM>
+@{
+    int j = 0;
+}
+<table class=" m-1 table table-striped table-bordered" id="userTable">
+    <thead>
+        <tr>
+            <th class="text-center">S No.</th>
+            <th class="text-left">Users</th>
+            <th class="text-left">Groups</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var v in Model)
+        {
+            j++;
+            <tr>
+                <td class="text-center">@j</td>
+                <td>@v.Username</td>
+                <td>@string.Join(", ", v.Groups)</td>
+                <td class="text-center"><a class="fa-regular fa-trash-can text-danger" onclick="confirmDeleteUserDialog(@v.Id)" title="Delete"></a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<script>
+    $(document).ready(function () {
+        $('#userTable').DataTable({
+            lengthMenu: [[5, 10, 25, 50], [5, 10, 25, 50]], // Set the options to show 5, 10, 25, or 50 entries per page
+            pageLength: 5, // Set the initial page length to 5
+            pagingType: 'simple_numbers', // Use simple_numbers pagination style
+            language: {
+                paginate: {
+                    previous: '<i class="fas fa-chevron-left"></i>', // Replace previous text with left chevron icon
+                    next: '<i class="fas fa-chevron-right"></i>' // Replace next text with right chevron icon
+                }
+            }
+        });
+    });
+
+</script>
