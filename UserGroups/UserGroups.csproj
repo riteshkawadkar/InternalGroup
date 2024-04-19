@@ -28,9 +28,4 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\UserGroup.Data\UserGroup.Data.csproj" />
-    <ProjectReference Include="..\UserGroup.ViewModel\UserGroup.ViewModel.csproj" />
-  </ItemGroup>
-
 </Project>

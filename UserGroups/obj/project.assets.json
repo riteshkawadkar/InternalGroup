@@ -2887,41 +2887,6 @@
             "rid": "win"
           }
         }
-      },
-      "UserGroup.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.3",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.3",
-          "UserGroup.Model": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/UserGroup.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UserGroup.Data.dll": {}
-        }
-      },
-      "UserGroup.Model/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/UserGroup.Model.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UserGroup.Model.dll": {}
-        }
-      },
-      "UserGroup.ViewModel/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/UserGroup.ViewModel.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/UserGroup.ViewModel.dll": {}
-        }
       }
     }
   },
@@ -8158,21 +8123,6 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "UserGroup.Data/1.0.0": {
-      "type": "project",
-      "path": "../UserGroup.Data/UserGroup.Data.csproj",
-      "msbuildProject": "../UserGroup.Data/UserGroup.Data.csproj"
-    },
-    "UserGroup.Model/1.0.0": {
-      "type": "project",
-      "path": "../UserGroup.Model/UserGroup.Model.csproj",
-      "msbuildProject": "../UserGroup.Model/UserGroup.Model.csproj"
-    },
-    "UserGroup.ViewModel/1.0.0": {
-      "type": "project",
-      "path": "../UserGroup.ViewModel/UserGroup.ViewModel.csproj",
-      "msbuildProject": "../UserGroup.ViewModel/UserGroup.ViewModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8183,9 +8133,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.3",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.3",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.2",
-      "Newtonsoft.Json >= 13.0.3",
-      "UserGroup.Data >= 1.0.0",
-      "UserGroup.ViewModel >= 1.0.0"
+      "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
@@ -8214,14 +8162,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "D:\\User group Client git\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj": {
-              "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj"
-            },
-            "D:\\User group Client git\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj": {
-              "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
