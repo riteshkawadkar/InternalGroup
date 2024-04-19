@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UserGroup Client\\InternalGroup\\UserGroups\\UserGroups.csproj": {}
+    "D:\\User group Client git\\InternalGroup\\UserGroups\\UserGroups.csproj": {}
   },
   "projects": {
-    "D:\\UserGroup Client\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj": {
+    "D:\\User group Client git\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj",
+        "projectUniqueName": "D:\\User group Client git\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj",
         "projectName": "UserGroup.Data",
-        "projectPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj",
+        "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Data\\obj\\",
+        "outputPath": "D:\\User group Client git\\InternalGroup\\UserGroup.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\UserGroup Client\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj": {
-                "projectPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj"
+              "D:\\User group Client git\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj": {
+                "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\UserGroup Client\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj": {
+    "D:\\User group Client git\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj",
+        "projectUniqueName": "D:\\User group Client git\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj",
         "projectName": "UserGroup.Model",
-        "projectPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj",
+        "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Model\\obj\\",
+        "outputPath": "D:\\User group Client git\\InternalGroup\\UserGroup.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\UserGroup Client\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj": {
+    "D:\\User group Client git\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UserGroup Client\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj",
+        "projectUniqueName": "D:\\User group Client git\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj",
         "projectName": "UserGroup.ViewModel",
-        "projectPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj",
+        "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.ViewModel\\obj\\",
+        "outputPath": "D:\\User group Client git\\InternalGroup\\UserGroup.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -195,14 +195,14 @@
         }
       }
     },
-    "D:\\UserGroup Client\\InternalGroup\\UserGroups\\UserGroups.csproj": {
+    "D:\\User group Client git\\InternalGroup\\UserGroups\\UserGroups.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UserGroup Client\\InternalGroup\\UserGroups\\UserGroups.csproj",
+        "projectUniqueName": "D:\\User group Client git\\InternalGroup\\UserGroups\\UserGroups.csproj",
         "projectName": "UserGroups",
-        "projectPath": "D:\\UserGroup Client\\InternalGroup\\UserGroups\\UserGroups.csproj",
+        "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroups\\UserGroups.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\UserGroup Client\\InternalGroup\\UserGroups\\obj\\",
+        "outputPath": "D:\\User group Client git\\InternalGroup\\UserGroups\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -219,11 +219,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\UserGroup Client\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj": {
-                "projectPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj"
+              "D:\\User group Client git\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj": {
+                "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj"
               },
-              "D:\\UserGroup Client\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj": {
-                "projectPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj"
+              "D:\\User group Client git\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj": {
+                "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroup.ViewModel\\UserGroup.ViewModel.csproj"
               }
             }
           }

@@ -21,3 +21,15 @@ D:\UserGroup Client\InternalGroup\UserGroup.Model\obj\Debug\net8.0\UserGroup.Mod
 D:\UserGroup Client\InternalGroup\UserGroup.Model\obj\Debug\net8.0\refint\UserGroup.Model.dll
 D:\UserGroup Client\InternalGroup\UserGroup.Model\obj\Debug\net8.0\UserGroup.Model.pdb
 D:\UserGroup Client\InternalGroup\UserGroup.Model\obj\Debug\net8.0\ref\UserGroup.Model.dll
+D:\User group Client git\InternalGroup\UserGroup.Model\bin\Debug\net8.0\UserGroup.Model.deps.json
+D:\User group Client git\InternalGroup\UserGroup.Model\bin\Debug\net8.0\UserGroup.Model.dll
+D:\User group Client git\InternalGroup\UserGroup.Model\bin\Debug\net8.0\UserGroup.Model.pdb
+D:\User group Client git\InternalGroup\UserGroup.Model\obj\Debug\net8.0\UserGroup.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\User group Client git\InternalGroup\UserGroup.Model\obj\Debug\net8.0\UserGroup.Model.AssemblyInfoInputs.cache
+D:\User group Client git\InternalGroup\UserGroup.Model\obj\Debug\net8.0\UserGroup.Model.AssemblyInfo.cs
+D:\User group Client git\InternalGroup\UserGroup.Model\obj\Debug\net8.0\UserGroup.Model.csproj.CoreCompileInputs.cache
+D:\User group Client git\InternalGroup\UserGroup.Model\obj\Debug\net8.0\UserGroup.Model.sourcelink.json
+D:\User group Client git\InternalGroup\UserGroup.Model\obj\Debug\net8.0\UserGroup.Model.dll
+D:\User group Client git\InternalGroup\UserGroup.Model\obj\Debug\net8.0\refint\UserGroup.Model.dll
+D:\User group Client git\InternalGroup\UserGroup.Model\obj\Debug\net8.0\UserGroup.Model.pdb
+D:\User group Client git\InternalGroup\UserGroup.Model\obj\Debug\net8.0\ref\UserGroup.Model.dll

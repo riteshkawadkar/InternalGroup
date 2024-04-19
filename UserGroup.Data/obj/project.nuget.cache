@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uAPlN3/3sazC5adDiuSLgKirH0IDVhWwXrPkzEO1qbZ0uZHlW/fBo3Bfrzh5LyGwIVObz76u5zK5zt4Badc07Q==",
+  "dgSpecHash": "IXHXRl9NjBVp71mTkvjsxG5ZQpKXW2OGWFF1dwU9QFsPDnxaBBuyxJfXyPz5F4TcfRW4KKwODICTqK+VvfEJvg==",
   "success": true,
-  "projectFilePath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj",
+  "projectFilePath": "D:\\User group Client git\\InternalGroup\\UserGroup.Data\\UserGroup.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

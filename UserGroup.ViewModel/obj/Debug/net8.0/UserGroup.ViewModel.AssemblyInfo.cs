@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserGroup.ViewModel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4254854af16f6ae9260e2a911998ae69ebcfe95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8c38ab6c7352a61ca65a8c3b69bc9dc56a6d0c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserGroup.ViewModel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserGroup.ViewModel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,51 +17,51 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UserGroups
 build_property.RootNamespace = UserGroups
-build_property.ProjectDir = D:\UserGroup Client\InternalGroup\UserGroups\
+build_property.ProjectDir = D:\User group Client git\InternalGroup\UserGroups\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\UserGroup Client\InternalGroup\UserGroups
+build_property.MSBuildProjectDirectory = D:\User group Client git\InternalGroup\UserGroups
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/Home/Index.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/Home/Privacy.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/Home/UserForm.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/Home/UserForm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc2VyRm9ybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/Home/_groupTable.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/Home/_groupTable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfZ3JvdXBUYWJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/Home/_userTable.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/Home/_userTable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfdXNlclRhYmxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/Shared/Error.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/_ViewImports.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/_ViewStart.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/UserGroup Client/InternalGroup/UserGroups/Views/Shared/_Layout.cshtml]
+[D:/User group Client git/InternalGroup/UserGroups/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ostrfkckjj

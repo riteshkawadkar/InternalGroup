@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj",
+      "projectUniqueName": "D:\\User group Client git\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj",
       "projectName": "UserGroup.Model",
-      "projectPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj",
+      "projectPath": "D:\\User group Client git\\InternalGroup\\UserGroup.Model\\UserGroup.Model.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\UserGroup Client\\InternalGroup\\UserGroup.Model\\obj\\",
+      "outputPath": "D:\\User group Client git\\InternalGroup\\UserGroup.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
